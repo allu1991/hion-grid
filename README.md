@@ -22,4 +22,4 @@ Just some [Three.js](https://threejs.org/) experimentation
 
 ## Demo
 
-Working demo » [Hion Grid](https://genaleksip.github.io/hion-grid/ )
+Working demo » [Hion Grid](https://allu1991.github.io/hion-grid/ )
